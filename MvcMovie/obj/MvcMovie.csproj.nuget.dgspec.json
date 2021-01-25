@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CBogner\\Desktop\\MvcMovies\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\Users\\CBogner\\Source\\Repos\\CaolanB96\\MvcMovies\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CBogner\\Desktop\\MvcMovies\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\Users\\CBogner\\Source\\Repos\\CaolanB96\\MvcMovies\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CBogner\\Desktop\\MvcMovies\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\Users\\CBogner\\Source\\Repos\\CaolanB96\\MvcMovies\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\CBogner\\Desktop\\MvcMovies\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "C:\\Users\\CBogner\\Source\\Repos\\CaolanB96\\MvcMovies\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\CBogner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CBogner\\Desktop\\MvcMovies\\MvcMovie\\obj\\",
+        "outputPath": "C:\\Users\\CBogner\\Source\\Repos\\CaolanB96\\MvcMovies\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

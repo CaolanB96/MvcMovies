@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HcE3k6fUc1C4SWP4dTVlD/b1J5ZAiAnav4Jfx2DEbJx9K2/fCI1e0h/k29oftQPsaCAjygEns5t1XY1S+5ln8Q==",
+  "dgSpecHash": "LOcNhscOCMFhkX4pw3PNRSQ8A4KRmp7GAPDNKm9sWzdMaex+LA0OqDM9gJvOyHjAJE7hQCTu9yLFZBMYld6PQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CBogner\\Desktop\\MvcMovies\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "C:\\Users\\CBogner\\Source\\Repos\\CaolanB96\\MvcMovies\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CBogner\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\CBogner\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
